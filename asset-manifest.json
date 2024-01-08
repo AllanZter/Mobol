@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.839042c2.css",
+    "main.js": "/static/js/main.adc4e4da.js",
+    "static/js/787.173d7835.chunk.js": "/static/js/787.173d7835.chunk.js",
+    "static/media/Mobol.png": "/static/media/Mobol.e0803655e0f3154caad8.png",
+    "static/media/Tech.png": "/static/media/Tech.f9afbfbedce947ad9065.png",
+    "index.html": "/index.html",
+    "main.839042c2.css.map": "/static/css/main.839042c2.css.map",
+    "main.adc4e4da.js.map": "/static/js/main.adc4e4da.js.map",
+    "787.173d7835.chunk.js.map": "/static/js/787.173d7835.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.839042c2.css",
+    "static/js/main.adc4e4da.js"
+  ]
+}
