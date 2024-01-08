@@ -1,22 +1,20 @@
-import logo from './logo.svg';
+import logo from './Tech.png';
+import { HeaderFixo } from "../src/components/Header/header";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">      
       <header className="App-header">
+        <HeaderFixo></HeaderFixo>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          MobolTech Solutions
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          PAGINA EM MANUTENÇÃO
+        </p>
+       
       </header>
     </div>
   );
